@@ -6,7 +6,7 @@
 
 ## Feature List
 <details>
-  <summary>Click to show</summary>
+  <summary>Click to show [TESTING]</summary>
   
   | Cheat | Description |
   |----------|----------|
